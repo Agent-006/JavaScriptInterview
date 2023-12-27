@@ -1,0 +1,35 @@
+JavaScript
+
+-word vs keyword
+-var const let
+-- the difference
+-- window object
+-- browser context api
+-- stack
+-- heap memory
+-- execution context
+-- lexical environment
+-hoisting
+-types in js
+-- how to copy reference values
+-conditionals
+-if else else-if
+-- truthy vs falsy
+-- switch
+-loops
+-for while
+--foreach forin forof do-while
+-functions
+--callback funcs
+--what is first class funcs
+-params, arguments
+-arrays
+-push pop shift unshift
+--how arrays are made behind the scenes
+--why we can make negaitve indexes arrays in js
+--practice questions and scenarios
+-objects
+-props vs methods
+-updating object porps
+--how to delete object prop
+--practice questions, scenarios

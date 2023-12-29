@@ -104,8 +104,7 @@ JavaScript
 
 ---> In JavaScript there are many features that we can use, there are features that we can use
      but, they are not in JavaScript but, JavaScript can use those features through window.
-
-____🌟window is a box of features given by the browser to use with JavaScript.
+    🌟window is a box of features given by the browser to use with JavaScript.
 
 
 

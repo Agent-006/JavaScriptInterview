@@ -8,6 +8,7 @@
 🎯constructor functions ✅
 
 --> What are constructor functions?
+
 -> A function which whenever invoked with "new" keyword returns an object, if we use "this" keyword inside that function with this keyword, it returns an object with all of the properties and methods mentioned inside that function, such function is called construction function.
 
 ⭐Exmp:

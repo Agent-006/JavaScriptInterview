@@ -1,7 +1,6 @@
 🎯higher order functions ✅
 
--->Can you explain what is higher order functions?
-
+-->Can you explain what is higher order functions?\
 ->Higher Order Functions are the functions which accept a function ini a parameter or return a function or both.
 ⭐For Example: ForEach method always takes another function inside it, so ForEach is a higher order function.
 

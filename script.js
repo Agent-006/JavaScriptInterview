@@ -17,11 +17,12 @@
 // var dulha = "Lab";
 // var dulhan = "Laby";
 
+// let dulha = "Lab";
+// let dulhan = "Laby";
+
 // const dulha = "Lab";
 // const dulhan = "Laby";
 
-// let dulha = "Lab";
-// let dulhan = "Laby";
 // dulha = "Haraamzaada"; // -> This will throw an error.
 // console.log(dulha + " weds " + dulhan);
 
@@ -204,7 +205,7 @@
 
 // -- window object ✅
 
-// js mein kai saare features hai par kuchh features jo hum use karte hai wo features wo nahi hai par fir bhi use kar paate hai kyuki wo features js language use kar leti hai window se, aur window hai ek box of features given by browser to use with js.
+// js mein kai saare features hai par kuchh features jo hum use karte hai wo features jo nahi hai par fir bhi use kar paate hai kyuki wo features js language use kar leti hai window se, aur window hai ek box of features given by browser to use with js.
 
 
 

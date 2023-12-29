@@ -1,8 +1,10 @@
 🎯higher order functions ✅
 
 -->Can you explain what is higher order functions?
+
 ->Higher Order Functions are the functions which accept a function ini a parameter or return a function or both.
 ⭐For Example: ForEach method always takes another function inside it, so ForEach is a higher order function.
+
 
 
 🎯constructor functions ✅
@@ -25,6 +27,7 @@
 🎯first class functions ✅
 
 --> What is first class functions?
+
 -> A language is said to have first class function when the function in that language are treated as normal values or like variables, you can save them, you can pass them as arguments to another functions.
 
 ⭐Exmp: 
@@ -46,6 +49,7 @@
 🎯new keyword ✅
 
 --> Can you explain what is new keyword ?
+
 -> new keyword is used to create a blank object for the constructor function which is getting called just after new keyword.
 
 ⭐Exmp: 
@@ -58,9 +62,11 @@
         let obj = new abcd();
 
 
+
 🎯iife -> immediately invoked function expression ✅
 
 --> What is IIFE?
+
 -> Immediately Invoked Function Expression 
     iife hai function ko turant chalane ki kala, is tareeke se hum log koi private variable bana paaye
 ⭐Exmp:
@@ -85,9 +91,11 @@
         })();
 
 
+
 🎯prototype ✅
 
 --> What is a prototype, what does it contains ?
+
 -> Prototypes is the collection of build-in helper methods and helper functions those are available for furthur use.
 
 ⭐Exmp: Go to the browser console and create an object
@@ -99,17 +107,22 @@
 It contains an extra property called [[prototype]] so where does it come from and what does it contains.
 
 --> Where it came from?
+
 -> javascript by default adds a property called [[prototype]] to every object, so if you ever see any object, you can blindly say that object contains prototype, so now, what does it contains ?
 
+
 --> What does it contains ?
+
 -> [[prototype]] contains many helper properties and methods which can use to complete our task, let's say we create an array and we want to know length of it, what do we do, we use .length property on array, did we created .length on that array, no! but it still contains .length, the question is how?
 
 the answer is, many properties and methods are already available to use built by javascript creators inside prototype of every object.
 
 
+
 🎯prototypal inheritance ✅
 
 --> What is prototypal inheritance ?
+
 -> Inheritance is basically passing parent's features or properties to their childrens, to do the same thing in javascript with the help of prototype (one extra property always given by javascript to every object) is called prototypal inheritance.
 
 so, how we perform prototypal inheritance?
@@ -133,9 +146,11 @@ make another object called student, he can do all things which a human can do bu
     Student.__proto__ = Human;
 
 
+
 🎯this, call, apply, bind ✅
 
 --> Understanding this keyword
+
 -> this keyword is a special keyword inJavaScript which changes it's value in different context.
 
 jab bhi koi cheej {} brakets ke andar nahi hoti to hum use global scope kahte hai
@@ -234,6 +249,7 @@ In case you want to pass values in functions
 🎯pure & impure functions ✅
 
 --> Understanding pure functions
+
 -> Pure function is any function which has these 2 features:
     i.  fit should always return same output for same input
     ii. it will never change/update the value of a global variable.

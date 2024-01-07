@@ -170,10 +170,23 @@ The whole operation between the main stack and the side stack is done by\
 
 
 🎯 5 real world use cases
+🎯 in node 
 🎯 fetch
 🎯 setTimeout
 🎯 setInterval
 
 🎯 [concept aside]
-🎯 concurrency and parallelism
-🎯 throttling
+
+
+🎯 concurrency ✅
+
+--> In javascript synchronous code and asynchronous code is processing at the \
+    same time is know as concurrency.
+
+🎯 parallelism ✅
+
+--> focuses on different processors and their cores to run the processes
+
+🎯 throttling ✅
+
+--> to control the number of execution of a code

@@ -14,7 +14,7 @@ JavaScript
 
 🎯 var vs const vs let ✅
 
---> /
+--> 
 🎈 variable - Is is a container which is used to store data in 
                    programming or code that may change in future (code
                    mein koi bhi  data store karne ke liye jiska use hota hai
@@ -51,7 +51,7 @@ JavaScript
 
 📝Note: We can use both ES5 and ES6 together and at the same time.
 
-🎈 var is present in old (ES5) JavaScript
+🎈 var is present in old (ES5) JavaScript\
 🎈 var is function scoped - 'var' can be anywhere in it's parent function ('var' apne parent
                              function me kahi bhi use ho sakta hai).
 
